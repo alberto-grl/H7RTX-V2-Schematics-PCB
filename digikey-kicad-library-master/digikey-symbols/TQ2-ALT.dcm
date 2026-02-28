@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TQ2-5V
+D Panasonic Ultracompact, Ultrasensitive DPDT Relay, Single-winding Latching
+K relay monostable
+F http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name h750vbt6a)(type Legacy)(uri ${KIPRJMOD}/h750vbt6.lib)(options "")(descr ""))
+  (lib (name Connector-USB_B_Micro)(type Legacy)(uri ${KIPRJMOD}/Connector-USB_B_Micro.lib)(options "")(descr ""))
+  (lib (name H7RTX-V2-rescue)(type Legacy)(uri ${KIPRJMOD}/H7RTX-V2-rescue.lib)(options "")(descr ""))
+)
